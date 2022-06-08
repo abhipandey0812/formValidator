@@ -53,6 +53,7 @@ h2 {
 }
 .form-control input:focus {
   outline: none;
+  border: 2px solid gray;
 }
 .form-control.sucess input {
   border-color: var(--sucess-color);
